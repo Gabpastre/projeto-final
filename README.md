@@ -10,4 +10,3 @@ Repositório de Projeto Sistemas Elétricos, iniciativa acadêmico-profissional 
 > - elaboração de projetos de entradas individuais / coletivas;  
 > - especificação de materiais padronizados;  
 > - dimensionamento de condutores, proteção e aterramento;  
-> - desenvolvimento de exercícios e projetos finais de graduação/pós.
